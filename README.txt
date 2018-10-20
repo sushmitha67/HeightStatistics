@@ -1,0 +1,1 @@
+Data collector web application with PostgreSQL and Flask. It will collect mail id and height of users and will send mail to them about population  statistics on height of all users in database in python.
